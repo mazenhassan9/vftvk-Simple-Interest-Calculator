@@ -7,7 +7,7 @@ body {
     align-items: center;
 }
 h1{color:grey;font-family:verdana}
-.maindiv {
+.maindiv{
     background-color: white;
     color: black;
     padding: 20px;
@@ -16,4 +16,8 @@ h1{color:grey;font-family:verdana}
     line-height: 1.7;
     text-align: left;
     vertical-align:200px;
-}
+    }
+    .formDiv{
+        padding-left: 20px;
+        
+        }
